@@ -50,6 +50,10 @@
 			</plugin>
 		</plugins>
 	</build>
-<!-- first111 -->
+<<<<<<< HEAD
+<!--eclipse first111 -->
+<!--eclipse 2222222 -->
+=======
 
+>>>>>>> branch 'master' of https://github.com/dong76880/mySpringCloudDemo.git
 </project>
