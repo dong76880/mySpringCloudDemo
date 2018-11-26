@@ -41,7 +41,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+	<!-- eclipse1111 -->
 	<build>
 		<plugins>
 			<plugin>
