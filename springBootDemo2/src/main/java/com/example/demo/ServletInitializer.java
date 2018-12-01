@@ -12,6 +12,10 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		System.out.println("123456");
+		System.out.println("branch test1");
+		System.out.println("branch test2");
+		System.out.println("branch test3");
+		System.out.println("branch test4");
 	}
 
 
