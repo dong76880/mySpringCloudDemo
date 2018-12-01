@@ -18,5 +18,6 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		System.out.println("branch test2");
 		System.out.println("branch test3");
 		System.out.println("branch test4");
+		System.out.println("branch test5--3");
 	}
 }
