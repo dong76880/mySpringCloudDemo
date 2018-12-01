@@ -10,4 +10,9 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		return application.sources(SpringBootDemo2Application.class);
 	}
 
+	public static void main(String[] args) {
+		System.out.println("123456");
+	}
+
+
 }
