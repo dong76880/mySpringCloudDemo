@@ -11,8 +11,8 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	}
 
 	public static void main(String[] args) {
+		String argsCopy = "test branch!";
+		System.out.println("argsCopy："+argsCopy);
 		System.out.println("123456");
 	}
-
-
 }
