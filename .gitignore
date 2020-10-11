@@ -1,0 +1,71 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn
+*.iml
+.springBeans
+.classpath
+.project
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+/.idea/
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+logs/
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.idea/
+/target
+.DS_Store
+*.iml
+trunk/fxq-serverPro/fxq-nifa-server/target/
+trunk/auth-server/target/
+trunk/caml-eureka-server/target/
+trunk/codemanage/target/
+trunk/gateway/target/
+trunk/sysadmin/sysmanage-comm/target/
+trunk/sysadmin/sysmanage-web/target/
+trunk/sysmanage/target/
